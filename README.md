@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Helbert Rodrigo Malaver 👋
 
-<!--
-**rodrimalaverc/rodrimalaverc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build practical AI and automation workflows for real business problems.
 
-Here are some ideas to get you started:
+My background is in digital marketing, CRM, direct communications, and data analysis. I’m now focused on building automation systems with **n8n, APIs, AI tools, and structured workflows**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work with
+- n8n
+- APIs
+- OpenAI
+- Google Sheets
+- Excel
+- Power Query
+- Power BI
+- SQL (learning)
+- Python (learning)
+
+## What I’m building
+I create automation workflows that help businesses improve content operations, internal processes, and repetitive tasks through practical systems.
+
+## Featured project
+### Real Estate Content Pack Generator
+An n8n-based workflow that turns structured briefs into reviewable real estate content packs.
+
+Current features:
+- AI content generation
+- initial and regenerate modes
+- field validation and error logging
+- review statuses
+- idea bank and preset library
+- export-ready structure
+
+## Background
+Before moving into automation and AI workflows, I worked in marketing and CRM roles involving:
+- email, SMS, and push campaigns
+- database management and analysis
+- reporting and process improvement
+- automation of repetitive marketing tasks
+
+## Open to
+- automation-related roles
+- applied AI roles
+- workflow and operations roles
+- freelance automation projects
+
+## Connect with me
+- LinkedIn: https://www.linkedin.com/in/helbert-rodrigo-malaver-casallas/
+- Email: rodri.malaverc@gmail.com
