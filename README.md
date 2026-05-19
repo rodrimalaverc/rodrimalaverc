@@ -4,7 +4,7 @@ I build practical AI automation systems for marketing, content operations, CRM w
 
 My background is in digital marketing, CRM, direct communications, and data analysis. I’m now focused on building automation systems with **n8n, APIs, AI tools, and structured workflows**.
 
-## What I work with
+## Core tools
 - n8n
 - APIs
 - OpenAI
@@ -12,8 +12,10 @@ My background is in digital marketing, CRM, direct communications, and data anal
 - Excel
 - Power Query
 - Power BI
-- SQL (learning)
-- Python (learning)
+
+## Currently learning
+- SQL
+- Python
 
 ## What I’m building
 I create automation workflows that help businesses improve content operations, internal processes, and repetitive tasks through practical systems.
