@@ -1,4 +1,4 @@
-# Hi, I'm Helbert Rodrigo Malaver 👋
+# Hi, I'm Rodrigo Malaver 👋
 
 I build practical AI and automation workflows for real business problems.
 
