@@ -1,6 +1,6 @@
 # Hi, I'm Rodrigo Malaver 👋
 
-I build practical AI and automation workflows for real business problems.
+I build practical AI automation systems for marketing, content operations, CRM workflows, and repetitive business processes.
 
 My background is in digital marketing, CRM, direct communications, and data analysis. I’m now focused on building automation systems with **n8n, APIs, AI tools, and structured workflows**.
 
