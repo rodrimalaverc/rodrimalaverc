@@ -21,17 +21,8 @@ My background is in digital marketing, CRM, direct communications, and data anal
 I create automation workflows that help businesses improve content operations, internal processes, and repetitive tasks through practical systems.
 
 ## Featured project
-### Real Estate Content Pack Generator
-An n8n-based workflow that turns structured briefs into reviewable real estate content packs.
-
-Current features:
-- AI content generation
-- initial and regenerate modes
-- field validation and error logging
-- review statuses
-- idea bank and preset library
-- export-ready structure
-
+### [Real Estate Content Pack Generator](https://github.com/rodrimalaverc/real-estate-content-pack-generator)
+An AI automation workflow that turns structured real estate briefs into reviewable content packs with validation, regeneration, error logging, and export-ready structure.
 ## Background
 Before moving into automation and AI workflows, I worked in marketing and CRM roles involving:
 - email, SMS, and push campaigns
